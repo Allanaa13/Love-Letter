@@ -80,7 +80,7 @@
   }
   .envelope > .letter {
     position: absolute;
-    right: 300%;
+    right: 0%;
     bottom: 0;
     width: 60%;
     height: 150%;
