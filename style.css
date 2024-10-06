@@ -60,7 +60,7 @@
     content: "";
     position: absolute;
     top: 0;
-    z-index: 2;
+    z-index: 3;
     border-top: 150px solid var(--envelope-tab);
     border-right: 250px solid transparent;
     border-left: 250px solid transparent;
@@ -70,7 +70,7 @@
   .envelope-wrapper > .envelope::after {
     content: "";
     position: absolute;
-    z-index: 2;
+    z-index: 3;
     width: 0px;
     height: 0px;
     border-top: 150px solid transparent;
