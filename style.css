@@ -82,8 +82,8 @@
     position: absolute;
     right: 25%;
     bottom: 0;
-    width: 60%;
-    height: 200%;
+    width: 65%;
+    height: 175%;
     background: var(--primary);
     text-align: center;
     transition: all 1s ease-in-out;
