@@ -127,12 +127,12 @@
   }
   .flap > .envelope:before {
     transform: rotateX(180deg);
-    z-index: 3;
+    z-index:0;
   }
   .flap > .envelope > .letter {
     bottom: 140px;
     transform: scale(1.5);
-    z-index:0;
+    z-index: 3;
     transition-delay: 1s;
   }
   .flap > .heart {
