@@ -80,10 +80,10 @@
   }
   .envelope > .letter {
     position: absolute;
-    right: 17%;
+    right: 25%;
     bottom: 0;
     width: 60%;
-    height: 100%;
+    height: 115%;
     background: var(--primary);
     text-align: center;
     transition: all 1s ease-in-out;
