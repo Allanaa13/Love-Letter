@@ -1,5 +1,5 @@
-let anniversary = "2022-10-13";
-let date = new Date(anniversary);
+let birthday = "2006-10-07";
+let date = new Date(birthday);
 let dateVal = date.getTime();
 let today = new Date();
 let now = today.getTime();
