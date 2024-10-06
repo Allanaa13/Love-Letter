@@ -86,7 +86,7 @@
     height: 98%;
     background: var(--primary);
     text-align: center;
-    transition: all 2s ease-in-out;
+    transition: all 1s ease-in-out;
     box-shadow: 0 0 5px var(--shadow-color);
     padding: 15px 15px 50px 15px;
   }
@@ -132,8 +132,8 @@
   .flap > .envelope > .letter {
     bottom: 140px;
     transform: scale(1.5);
-    z-index: 3;
-    transition-delay: 3s;
+    z-index: 2;
+    transition-delay: 1s;
   }
   .flap > .heart {
     transform: rotate(90deg);
