@@ -53,7 +53,7 @@
   }
   .envelope-wrapper > .envelope {
     position: relative;
-    width: 300px;
+    width: 200px;
     height: 150px;
   }
   .envelope-wrapper > .envelope::before {
@@ -80,7 +80,7 @@
   }
   .envelope > .letter {
     position: absolute;
-    right: 7%;
+    right: 20%;
     bottom: 0;
     width: 60%;
     height: 150%;
